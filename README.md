@@ -180,9 +180,9 @@ pytest tests/
 
 | Metric | Train | Validation |
 |---|---|---|
-| MAE | _TBD_ | _TBD_ |
-| RMSE | _TBD_ | _TBD_ |
-| MAPE | _TBD_ | _TBD_ |
+| MAE | _103.17_ | _73.33_ |
+| RMSE | _104.99_ | _76.21_ |
+| MAPE | _112.03_ | _115.49_ |
 
 > Populate this table after the first full training run — keeping it in the README makes it easy to track improvements as features/models change. Full write-up and the December chart live in `reports/report.pdf`.
 
